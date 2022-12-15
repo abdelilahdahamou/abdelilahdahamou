@@ -13,7 +13,7 @@
 
 - 🌐 [**My portfolio**](https://dahamouabdelilah.netlify.app/)
 
-- 💬 Contact me on Linkedin :[**My Linkedin Profile**](https://www.linkedin.com/in/abdelilah-dahamou-a544241b0/)
+- 💬 Contact me on Linkedin :[**My Linkedin Profile**](https://www.linkedin.com/in/dahamouabdelilah/)
 
 <br>
 <br>
