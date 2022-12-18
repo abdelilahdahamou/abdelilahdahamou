@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DAHAMOU Abdelilah</h1>
 <h3 align="center">I'm a Data Scientist | Data Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelilah900" alt="abdelilah900" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelilahdahamou" alt="abdelilahdahamou" /></a> </p>
 
 - 🔭 Currently a 3rd year student in Data Engineering at the National Institute of Posts and Telecommunications 
 
