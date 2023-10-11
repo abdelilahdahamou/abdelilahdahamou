@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelilahdahamou" alt="abdelilahdahamou" /></a> </p>
 
-- 🔭 Currently a 3rd year student in Data Engineering at the National Institute of Posts and Telecommunications 
+- 🔭 Currently a Data Engineer
 
-- 🌱 I’m currently learning **Business Intelligence**
+- 🌱 I’m currently learning **Cloud**
 
 - 💬 Ask me about **Python , Machine Learning and DATA Engineering**
 
